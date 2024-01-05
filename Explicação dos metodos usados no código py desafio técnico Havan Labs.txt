@@ -1,0 +1,4 @@
+Nesse projeto usei a ferramenta da BotCity para essa automação, usando para capturar prints da tela e fazer com que toda a automação pegasse cada parte da tela para serem feitos os comandos corretos, usando o comando self para referencar os objetos e mostrar qual a função do mouse ou teclado para aquele determinado print da tela.
+
+Não foi possivel usar o modo modo headless pois estava apresentando erros ao código.
+Ao apresentar algum erro o código aponta no prompt de comando do python.
